@@ -33,10 +33,12 @@ import mic from './company/mic.png'
 import dfinity from './tech/dfinity.png'
 import tf from './tech/tf.webp'
 import placement from './placement.png'
+import imagin from './imagin.png'
 
 export {
   logo,
   backend,
+  imagin,
   creator,
   mobile,
   web,
